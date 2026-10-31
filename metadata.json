@@ -1,0 +1,6 @@
+{
+  "name": "ESSENTIELS.MA — Sous-Vêtements Homme Maroc",
+  "description": "Packs de sous-vêtements homme au Maroc. Pack Solo 10 pièces à 199 DH et Pack Duo 20 pièces à 269 DH. Livraison gratuite partout au Maroc et paiement à la livraison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

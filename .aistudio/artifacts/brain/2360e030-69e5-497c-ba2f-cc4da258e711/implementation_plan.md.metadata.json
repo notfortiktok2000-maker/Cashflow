@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan d'architecture et de refonte en fiche produit Shopify compacte pour ESSENTIELS.MA :\n- Mise en page Shopify PDP compacte (galerie photos, sélecteur de pack, sticky buy bar, accordéons rétractables).\n- Génération d'images studio haut de gamme pour les packs Solo (10 pièces) et Duo (20 pièces).\n- Déclencheurs de conversion (compteur de stock dynamique, expédition 24h-48h, badges de réassurance COD Maroc).\n- Module de suivi de commande en temps réel par numéro de commande.\n- Conservation du flux direct WhatsApp sans friction.",
+  "updatedAt":  "2026-10-31T22:56:51.794633196Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
